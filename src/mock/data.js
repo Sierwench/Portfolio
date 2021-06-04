@@ -29,30 +29,30 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'project-0.jpg',
+    title: 'Travel Beyond Limits',
+    info: 'Website i made with HTML/CSS/Flexbox with little of CSS Animation. I loved creating moving clouds. Was pretty awesome to mix z-index and animation of clouds.',
+    info2: 'This site represents of wanting to buy best tickets available to travel.',
+    url: 'https://sierwench.github.io/',
+    repo: 'https://github.com/Sierwench/sierwench.github.io', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'project-1.jpg',
+    title: 'Photography Portfolio',
+    info: 'This site is using HTML/CSS/JS with mix of Flexbox and Grid. Was a bit of a challenge to make pictures to match screen size and was pretty interesting of using grid system',
+    info2: 'This site represents portfolio of photographer.',
+    url: 'https://sierwench.github.io/sierwench.demoproject.github.io/',
+    repo: 'https://github.com/Sierwench/sierwench.demoproject.github.io', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'project-2.jpg',
+    title: 'Pricing Panel',
+    info: 'This website was created using Bootstrap framework. I mixed bootstrap styles with my own custom one, was interesting to make some changes, little bit of challenge was using containers to make tables.',
+    info2: 'This site represents of choosing best domain for good prices.',
+    url: 'https://sierwench.github.io/PricingPanel/',
+    repo: 'https://github.com/Sierwench/PricingPanel', // if no repo, the button will not show up
   },
 ];
 
