@@ -58,9 +58,9 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
+  cta: 'Did you like what you saw ? Contact me!',
   btn: '',
-  email: '',
+  email: 'sergejusleonovas@gmail.com',
 };
 
 // FOOTER DATA
@@ -69,27 +69,22 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
+      url: 'https://twitter.com/sierwench',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/sergejus-leonovas-2684751b0/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/Sierwench',
     },
   ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
