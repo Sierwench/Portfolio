@@ -22,8 +22,7 @@ export const aboutData = {
     "I'm self learned web developer, who loves to take challenges and overcome it. I am really passionate what i am doing, and eager to learn even more.",
   paragraphTwo:
     "What do i like ? I love coffee and a good book, also playing video games. Also chill in a calm place like parks or forests, really love taking some photo's everywhere i travel.",
-  // paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
